@@ -1,2 +1,13 @@
-# mics-work-automation-releases
-MICS Windows installation and update distribution. No development source or personal settings.
+# MICS Windows 배포
+
+Windows용 MICS 보조 앱의 설치 파일과 업데이트 정보를 제공하는 배포 저장소입니다.
+
+## 현재 상태
+
+설치 프로그램과 업데이트 기능을 준비 중이며, **아직 다운로드할 설치 파일은 게시하지 않았습니다.**
+
+완성된 설치 파일은 [Releases](https://github.com/aroraror/mics-work-automation-releases/releases)에 게시할 예정입니다. 설치 후 시작 메뉴와 선택한 바탕 화면 바로가기를 사용할 수 있으며, 앱에서 업데이트를 확인하는 구조로 준비하고 있습니다.
+
+개발 소스, 개인 설정, 자격증명 및 환자 자료는 이 저장소에 포함하지 않습니다.
+
+개인이 제작하는 보조 도구이며 MICS 공식 앱이 아닙니다.
